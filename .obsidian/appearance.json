@@ -1,0 +1,7 @@
+{
+  "cssTheme": "Catppuccin",
+  "enabledCssSnippets": [
+    "align",
+    "center"
+  ]
+}
