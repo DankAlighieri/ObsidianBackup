@@ -8,31 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "99148111f401b7db",
+            "id": "ddf35716a8d9a217",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "AED/Listas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "590db76f21f4d2f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AED/Filas e pilhas.md",
-                "mode": "source",
-                "source": false
+                "file": "Física 1/Assets/Pasted Image 20241005094652_791.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b34ae9fd13355ef8",
@@ -99,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AED/Filas e pilhas.md",
+                "file": "Física 1/Assets/Pasted Image 20241005094652_791.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AED/Filas e pilhas.md",
+                "file": "Física 1/Assets/Pasted Image 20241005094652_791.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AED/Filas e pilhas.md"
+                "file": "Física 1/Assets/Pasted Image 20241005094652_791.png"
               }
             }
           },
@@ -170,9 +154,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "590db76f21f4d2f4",
+  "active": "483adf3558983b2f",
   "lastOpenFiles": [
-    "Pasted image 20241003193920.png",
+    "Física 1/Física.md",
+    "Física 1/Resolução Lista 3.md",
+    "Física 1/Assets/Pasted Image 20241005170036_370.png",
+    "Física 1/Assets/Pasted Image 20241005162138_160.png",
+    "Física 1/Assets/Pasted Image 20241005150816_915.png",
+    "Física 1/Assets/Pasted Image 20241005141957_382.png",
+    "Física 1/Assets/Pasted Image 20241005094652_791.png",
+    "AED/Assets/Pasted image 20241003195409.png",
+    "AED/Assets/Pasted image 20241003193920.png",
     "AED/Árvores.md",
     "AED/Filas e pilhas.md",
     "AED/Listas.md",
@@ -182,18 +174,10 @@
     "Excalidraw/Drawing 2024-09-29 16.58.41.excalidraw.md",
     "Assets/Pasted Image 20241001123647_599.png",
     "Assets/Pasted Image 20241001123359_259.png",
-    "Assets/Pasted Image 20241001111956_797.png",
-    "Assets/Pasted Image 20241001111327_640.png",
-    "Assets/Pasted Image 20241001111215_483.png",
-    "Assets/Pasted Image 20241001111022_107.png",
-    "Assets/Pasted Image 20240930203041_212.png",
-    "Assets/Pasted Image 20240930200214_139.png",
-    "Assets/Pasted Image 20240930195402_489.png",
     "Excalidraw/Drawing 2024-09-22 20.18.07.excalidraw.md",
     "Excalidraw/Drawing 2024-09-21 20.30.59.excalidraw.md",
-    "Excalidraw/Fisica_1.md",
-    "Excalidraw/Física.md",
-    "Excalidraw/Fisica1.md",
+    "Física 1/Fisica_1.md",
+    "Física 1/Fisica1.md",
     "Excalidraw/Drawing 2024-09-11 13.19.19.excalidraw.md",
     "Excalidraw/Drawing 2024-09-08 18.01.07.excalidraw.md",
     "Excalidraw/Drawing 2024-09-03 20.30.29.excalidraw.md",
@@ -202,11 +186,11 @@
     "Excalidraw/Drawing 2024-08-25 12.53.13.excalidraw.md",
     "Excalidraw/Drawing 2024-09-14 16.43.15.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Scribble Helper.md",
-    "Excalidraw/Calc 2.md",
+    "Cálculo 2/Calc 2.md",
     "Cálculo 2/Assets",
     "AED/Assets",
-    "Excalidraw/Lista 1.md",
-    "Excalidraw/AED.md",
+    "Física 1/Lista 1.md",
+    "AED/AED.md",
     "Eletrônica Digital/Introdução.md",
     "Física 1/Assets",
     "Eletrônica Digital/Assets",
@@ -216,7 +200,6 @@
     "Física 1",
     "AED",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
-    "create a link.md",
-    "Welcome.md"
+    "create a link.md"
   ]
 }
