@@ -4,20 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "3ce1549de9e57eaf",
+        "id": "e40e240a5b3025d2",
         "type": "tabs",
         "children": [
           {
-            "id": "ddf35716a8d9a217",
+            "id": "eae7ca723a61b6c9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Física 1/Assets/Pasted Image 20241005094652_791.png"
+                "file": "Física 1/Lista 04.md"
+              }
+            }
+          },
+          {
+            "id": "c2c305e7e666de0d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Álgebra Linear/Mudança de base.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b34ae9fd13355ef8",
@@ -83,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física 1/Assets/Pasted Image 20241005094652_791.png",
+                "file": "Álgebra Linear/Mudança de base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Física 1/Assets/Pasted Image 20241005094652_791.png",
+                "file": "Álgebra Linear/Mudança de base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física 1/Assets/Pasted Image 20241005094652_791.png"
+                "file": "Álgebra Linear/Mudança de base.md"
               }
             }
           },
@@ -154,30 +166,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "483adf3558983b2f",
+  "active": "c2c305e7e666de0d",
   "lastOpenFiles": [
+    "Física 1/Assets/image.png",
+    "Física 1/Assets/image_1.png",
+    "Física 1/Assets/image_0.png",
+    "Álgebra Linear/Mudança de base.md",
+    "Física 1/Lista 04.md",
     "Física 1/Física.md",
+    "Física 1/Fisica_1.md",
+    "Física 1/Fisica1.md",
+    "Física 1/Lista 1.md",
     "Física 1/Resolução Lista 3.md",
+    "AED/Árvores 1.md",
+    "Física 1/Assets/Pasted Image 20241005094652_791.png",
     "Física 1/Assets/Pasted Image 20241005170036_370.png",
     "Física 1/Assets/Pasted Image 20241005162138_160.png",
     "Física 1/Assets/Pasted Image 20241005150816_915.png",
     "Física 1/Assets/Pasted Image 20241005141957_382.png",
-    "Física 1/Assets/Pasted Image 20241005094652_791.png",
     "AED/Assets/Pasted image 20241003195409.png",
     "AED/Assets/Pasted image 20241003193920.png",
     "AED/Árvores.md",
     "AED/Filas e pilhas.md",
     "AED/Listas.md",
-    "Assets/Pasted image 20240826223525.png",
     "Untitled 1.md",
     "Assets",
     "Excalidraw/Drawing 2024-09-29 16.58.41.excalidraw.md",
-    "Assets/Pasted Image 20241001123647_599.png",
-    "Assets/Pasted Image 20241001123359_259.png",
     "Excalidraw/Drawing 2024-09-22 20.18.07.excalidraw.md",
     "Excalidraw/Drawing 2024-09-21 20.30.59.excalidraw.md",
-    "Física 1/Fisica_1.md",
-    "Física 1/Fisica1.md",
     "Excalidraw/Drawing 2024-09-11 13.19.19.excalidraw.md",
     "Excalidraw/Drawing 2024-09-08 18.01.07.excalidraw.md",
     "Excalidraw/Drawing 2024-09-03 20.30.29.excalidraw.md",
@@ -189,17 +205,13 @@
     "Cálculo 2/Calc 2.md",
     "Cálculo 2/Assets",
     "AED/Assets",
-    "Física 1/Lista 1.md",
     "AED/AED.md",
-    "Eletrônica Digital/Introdução.md",
     "Física 1/Assets",
     "Eletrônica Digital/Assets",
     "Eletrônica Digital",
     "Álgebra Linear",
     "Cálculo 2",
     "Física 1",
-    "AED",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
-    "create a link.md"
+    "AED"
   ]
 }

@@ -20,4 +20,4 @@ Quando o cursor (ou índice de inserção) atinge a última posição (MAX - 1),
 
 
 ## Próximo conteúdo
->[[Árvores]]
+>[[AED/Árvores]]
