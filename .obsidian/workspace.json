@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "14a25743b3058216",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Física 1/Assets/image 1.png"
+              }
+            }
+          },
+          {
             "id": "c2c305e7e666de0d",
             "type": "leaf",
             "state": {
@@ -78,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b34ae9fd13355ef8",
@@ -95,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Álgebra Linear/Mudança de base.md",
+                "file": "Física 1/Assets/image 1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Álgebra Linear/Mudança de base.md",
+                "file": "Física 1/Assets/image 1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Álgebra Linear/Mudança de base.md"
+                "file": "Física 1/Assets/image 1.png"
               }
             }
           },
@@ -166,13 +175,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2c305e7e666de0d",
+  "active": "a0a6b852f11ee8e8",
   "lastOpenFiles": [
+    "Cálculo 2/Assets/image_2.png",
+    "Física 1/Assets/image_1 1.png",
+    "Física 1/Assets/image 1.png",
+    "Física 1/Assets/image_0 1.png",
+    "Cálculo 2/Questionário 4.md",
+    "Física 1/Lista 04.md",
+    "Álgebra Linear/Mudança de base.md",
     "Física 1/Assets/image.png",
     "Física 1/Assets/image_1.png",
     "Física 1/Assets/image_0.png",
-    "Álgebra Linear/Mudança de base.md",
-    "Física 1/Lista 04.md",
     "Física 1/Física.md",
     "Física 1/Fisica_1.md",
     "Física 1/Fisica1.md",
@@ -182,10 +196,6 @@
     "Física 1/Assets/Pasted Image 20241005094652_791.png",
     "Física 1/Assets/Pasted Image 20241005170036_370.png",
     "Física 1/Assets/Pasted Image 20241005162138_160.png",
-    "Física 1/Assets/Pasted Image 20241005150816_915.png",
-    "Física 1/Assets/Pasted Image 20241005141957_382.png",
-    "AED/Assets/Pasted image 20241003195409.png",
-    "AED/Assets/Pasted image 20241003193920.png",
     "AED/Árvores.md",
     "AED/Filas e pilhas.md",
     "AED/Listas.md",
@@ -205,7 +215,6 @@
     "Cálculo 2/Calc 2.md",
     "Cálculo 2/Assets",
     "AED/Assets",
-    "AED/AED.md",
     "Física 1/Assets",
     "Eletrônica Digital/Assets",
     "Eletrônica Digital",
