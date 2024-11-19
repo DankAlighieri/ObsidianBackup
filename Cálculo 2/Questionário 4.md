@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Excalidraw Data
 ## Text Elements
 ## Embedded Files
-236e24a4d2d1e1a1b13b90d57782559301552ad0: [[image_2.png]]
+236e24a4d2d1e1a1b13b90d57782559301552ad0: [[Física 1/Assets/image_2.png]]
 
 %%
 ## Drawing

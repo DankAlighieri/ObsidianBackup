@@ -4,41 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e40e240a5b3025d2",
+        "id": "67b978e24b37b0ad",
         "type": "tabs",
         "children": [
           {
-            "id": "eae7ca723a61b6c9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Física 1/Lista 04.md"
-              }
-            }
-          },
-          {
-            "id": "14a25743b3058216",
+            "id": "cd4593354732a27b",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Física 1/Assets/image 1.png"
-              }
-            }
-          },
-          {
-            "id": "c2c305e7e666de0d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Álgebra Linear/Mudança de base.md"
-              }
+                "file": "Física 1/Assets/image 8.png"
+              },
+              "icon": "lucide-image",
+              "title": "image 8"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,7 +39,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -73,7 +56,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -81,14 +66,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 232.00260543823242
   },
   "right": {
     "id": "b34ae9fd13355ef8",
@@ -104,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física 1/Assets/image 1.png",
+                "file": "Física 1/Lista 04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +99,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lista 04"
             }
           },
           {
@@ -121,10 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Física 1/Assets/image 1.png",
+                "file": "Física 1/Lista 04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Lista 04"
             }
           },
           {
@@ -135,7 +126,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -144,8 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física 1/Assets/image 1.png"
-              }
+                "file": "Física 1/Lista 04.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lista 04"
             }
           },
           {
@@ -153,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -171,48 +168,49 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a0a6b852f11ee8e8",
+  "active": "cd4593354732a27b",
   "lastOpenFiles": [
-    "Cálculo 2/Assets/image_2.png",
-    "Física 1/Assets/image_1 1.png",
-    "Física 1/Assets/image 1.png",
-    "Física 1/Assets/image_0 1.png",
-    "Cálculo 2/Questionário 4.md",
+    "Física 1/Assets/image_0 7.png",
+    "Física 1/Assets/Imagem do WhatsApp de 2024-11-08 à(s) 10.33.43_e29bdd91.jpg",
+    "AED/Assets/Pasted image 20241117190423.png",
+    "Física 1/Lista 07.md",
+    "Física 1/Assets/image 8.png",
+    "AED/Grafos.md",
+    "Excalidraw/Drawing 2024-11-16 08.47.04.excalidraw.md",
+    "AED/Assets/Pasted image 20241117185810.png",
+    "AED/Assets/Pasted image 20241117185534.png",
+    "Eletrônica Digital/Assets/image_0.png",
+    "Eletrônica Digital/Assets/image.png",
+    "Eletrônica Digital/Eletrônica - Circuitos.md",
+    "Eletrônica Digital/Introdução.md",
+    "Álgebra Linear/Álgebra - AV2.md",
+    "Cálculo 2/Assets/image_1.png",
+    "Cálculo 2/Assets/image_0.png",
+    "Cálculo 2/C2 - Lista 05.md",
+    "Álgebra Linear/Assets",
+    "Álgebra Linear/Álgebra - XE2.md",
+    "Álgebra Linear/Álgebra - XE1.md",
+    "Física 1/Prova 2 Wagner.md",
+    "Excalidraw/Drawing 2024-10-24 17.56.47.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-24 06.25.00.excalidraw.md",
     "Física 1/Lista 04.md",
-    "Álgebra Linear/Mudança de base.md",
-    "Física 1/Assets/image.png",
-    "Física 1/Assets/image_1.png",
-    "Física 1/Assets/image_0.png",
-    "Física 1/Física.md",
-    "Física 1/Fisica_1.md",
-    "Física 1/Fisica1.md",
-    "Física 1/Lista 1.md",
+    "Física 1/lista 04 pt 2.md",
+    "Física 1/Lista 06.md",
     "Física 1/Resolução Lista 3.md",
+    "Excalidraw/Drawing 2024-10-21 22.02.57.excalidraw.md",
+    "Física 1/Lista 03 pt 2.md",
+    "AED/Rotacoes.md",
     "AED/Árvores 1.md",
-    "Física 1/Assets/Pasted Image 20241005094652_791.png",
-    "Física 1/Assets/Pasted Image 20241005170036_370.png",
-    "Física 1/Assets/Pasted Image 20241005162138_160.png",
     "AED/Árvores.md",
-    "AED/Filas e pilhas.md",
-    "AED/Listas.md",
-    "Untitled 1.md",
+    "Física 1/Centro de massa.md",
+    "Cálculo 2/Questionário 4.md",
+    "Álgebra Linear/Mudança de base.md",
+    "Física 1/Física.md",
     "Assets",
-    "Excalidraw/Drawing 2024-09-29 16.58.41.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-22 20.18.07.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-21 20.30.59.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-11 13.19.19.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-08 18.01.07.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-03 20.30.29.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-04 20.00.31.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-30 13.29.47.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-25 12.53.13.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-14 16.43.15.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Scribble Helper.md",
-    "Cálculo 2/Calc 2.md",
     "Cálculo 2/Assets",
     "AED/Assets",
     "Física 1/Assets",
@@ -220,7 +218,6 @@
     "Eletrônica Digital",
     "Álgebra Linear",
     "Cálculo 2",
-    "Física 1",
-    "AED"
+    "Física 1"
   ]
 }
